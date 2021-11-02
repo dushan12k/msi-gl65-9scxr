@@ -18,7 +18,7 @@ MAKE YOUR OWN SMBIOS  😓😒
   2. generate [smbios](https://github.com/corpnewt/GenSMBIOS) using this
                             
                             
-         use macbook as ( macbook pro 16,3 )
+         use macbook as ( macbookpro 16,3 )
 
 
 Laptop Specs 😧😨
