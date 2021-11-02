@@ -1,23 +1,27 @@
 # msi-gl65-9scxr
 
-Latest Opencore 0.7.4
+Latest Opencore 0.7.4 🤗🤗
 
-Mac OS monterey 12.0.1 working perfecly
+Mac OS monterey 12.0.1 working perfecly 😜
 
 
     HDMI working
     Intel Bluetooth & wifi  Working
     All other ports are working
     
-MAKE YOUR OWN SMBIOS  
+MAKE YOUR OWN SMBIOS  😓😒 
+
+       for functioning apple services( i-messages, facetime, apple id login, appstore....)😁😁
 
   1. use [proper tree](https://github.com/corpnewt/ProperTree/) for open opencore.efi
  
-  2. generate [smbios](https://github.com/corpnewt/GenSMBIOS) use
-        use macbook as ( macbook pro 16,3 )
+  2. generate [smbios](https://github.com/corpnewt/GenSMBIOS) using this
+                            
+                            
+         use macbook as ( macbook pro 16,3 )
 
 
-Laptop Specs
+Laptop Specs 😧😨
     
     
     Intel Core i5 9300H
@@ -27,7 +31,7 @@ Laptop Specs
     512GB Addlink Sata ssd drive ( for mac os ) 
     144Hz FHD Laptop Display & 144Hz FHD external samsung odessy G5 24inch monitor
 
-Some Screen Shots and Pics
+Some Screen Shots and Pics 🤗
 
 ![Screen Shot 2021-10-27 at 06 45 19](https://user-images.githubusercontent.com/77915860/139799970-0cc0057b-969c-45c2-93de-3d1ddeab4215.png)
 
