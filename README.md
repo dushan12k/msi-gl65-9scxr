@@ -1,4 +1,4 @@
-# msi-gl65-9scxr
+# msi-gl65-leopard-9scxr-NEW
 
 Latest Opencore 0.7.4 🤗🤗
 
