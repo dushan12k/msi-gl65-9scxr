@@ -8,6 +8,8 @@ Mac OS monterey 12.0.1 working perfecly 😜
     HDMI working
     Intel Bluetooth & wifi  Working
     All other ports are working
+    Sleep fuction also works fine
+    Can control brightness and volume through as default keybord bindings
     
 MAKE YOUR OWN SMBIOS  😓😒 
 
