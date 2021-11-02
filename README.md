@@ -6,6 +6,8 @@ Mac OS monterey 12.0.1 working perfecly
 
 
     HDMI working
+    Intel Bluetooth & wifi  Working
+    All other ports are working
     
 MAKE YOUR OWN SMBIOS  
 
