@@ -11,13 +11,10 @@ Mac OS monterey 12.0.1 working perfecly
     
 MAKE YOUR OWN SMBIOS  
 
-   use macbook as ( macbook pro 16,3 )
-   
-   
-   use [proper tree](https://github.com/corpnewt/ProperTree/) for open opencore.efi
-   
-   
-   generate [smbios](https://github.com/corpnewt/GenSMBIOS) use
+  1. use [proper tree](https://github.com/corpnewt/ProperTree/) for open opencore.efi
+ 
+  2. generate [smbios](https://github.com/corpnewt/GenSMBIOS) use
+        use macbook as ( macbook pro 16,3 )
 
 
 Laptop Specs
