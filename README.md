@@ -27,6 +27,8 @@ Laptop Specs
 Some Screen Shots and Pics
 
 ![Screen Shot 2021-10-27 at 06 45 19](https://user-images.githubusercontent.com/77915860/139799970-0cc0057b-969c-45c2-93de-3d1ddeab4215.png)
+
+
 ![Screen Shot 2021-10-27 at 06 47 18](https://user-images.githubusercontent.com/77915860/139799997-5257ef00-a537-4d4d-8b5d-ba12b407977e.png)
 
 
